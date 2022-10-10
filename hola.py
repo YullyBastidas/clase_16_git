@@ -3,4 +3,5 @@ def hola():
 
 
 def saludar():
+    print("Antes de saludar")
     hola()    

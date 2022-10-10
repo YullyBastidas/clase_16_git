@@ -3,8 +3,5 @@ def chau():
 
 
 def despedirse():
-    chau()    
-
-
-def despedirse():
+    print()
     chau()    
